@@ -9,6 +9,11 @@ Using this main.py you can run all commands of initial data science like preproc
 <br><hr>
 <b><i>for eg.</i></b> 
 
+<br>Run the main program
+```python
+python main.py
+```
+
 <br>
 Please Enter your data path :  <b>housing.csv</b>
 
